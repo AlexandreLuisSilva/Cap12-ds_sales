@@ -4,10 +4,12 @@
 
 :root {
    --primary-color: #283142;
-   --secondary-color: #1b2531;
-   --light-color: #e9e9e9;
-   --gray-light-color-50: #9aaabe;
-   --gray-light-color-100: #384459;
+   --secondary-color: #1B2531;
+   --light-color: #E9E9E9;
+   --gray-light-color-50: #9AAABE;
+   --gray-light-color-100: #949494;
+   --gray-light-color-150: #384459;
+   --green-color: #08B976;
 }
 
 body {

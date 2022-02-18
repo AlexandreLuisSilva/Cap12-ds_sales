@@ -12,10 +12,10 @@
    background-color: var(--secondary-color);
    color: var(--gray-light-color-50);
    font-size: 16px;
-   border: 1px solid var(--gray-light-color-100);
+   border: 1px solid var(--gray-light-color-150);
    border-radius: 10px;
    padding: 12px 5px 12px 20px;
-   width: 270px;
+   min-width: 260px;
 }
 
 .filter-input:first-of-type {
