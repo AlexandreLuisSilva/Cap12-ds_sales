@@ -8,8 +8,11 @@
    --light-color: #E9E9E9;
    --gray-light-color-50: #9AAABE;
    --gray-light-color-100: #949494;
+   --gray-light-color-125:    #72849A;
    --gray-light-color-150: #384459;
    --green-color: #08B976;
+   --white-color: #FFFFFF;
+
 }
 
 body {
