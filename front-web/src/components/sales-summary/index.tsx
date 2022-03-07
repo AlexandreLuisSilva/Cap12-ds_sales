@@ -4,9 +4,10 @@ import { ReactComponent as BarChartIcon } from '../../assets/bar-chart-icon.svg'
 import { ReactComponent as DoneIcon } from '../../assets/done-icon.svg';
 import { ReactComponent as SyncIcon } from '../../assets/sync-icon.svg';
 import { FilterData, SalesSummaryData } from '../../types';
-import './styles.css';
 import { useEffect, useMemo, useState } from 'react';
 import { buildFilterParams, makeRequest } from '../../utils/request';
+
+import './styles.css';
 
 type Props = {
    filterData?: FilterData;
